@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunLengthEncodingLib", "RunLengthEncodingLib\RunLengthEncodingLib.csproj", "{D122714C-53E2-4E48-9A8A-70784BBA1AC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunLengthEncodingApp", "RunLengthEncodingApp\RunLengthEncodingApp.csproj", "{0BA007EF-EA90-4986-B320-3B59DCDCC412}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunLengthEncodingLib.Tests", "RunLengthEncodingLib.Tests\RunLengthEncodingLib.Tests.csproj", "{2765DDAE-D4F1-4265-A6B5-8D55E0FD9430}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D122714C-53E2-4E48-9A8A-70784BBA1AC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D122714C-53E2-4E48-9A8A-70784BBA1AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D122714C-53E2-4E48-9A8A-70784BBA1AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D122714C-53E2-4E48-9A8A-70784BBA1AC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BA007EF-EA90-4986-B320-3B59DCDCC412}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BA007EF-EA90-4986-B320-3B59DCDCC412}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BA007EF-EA90-4986-B320-3B59DCDCC412}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BA007EF-EA90-4986-B320-3B59DCDCC412}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2765DDAE-D4F1-4265-A6B5-8D55E0FD9430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2765DDAE-D4F1-4265-A6B5-8D55E0FD9430}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2765DDAE-D4F1-4265-A6B5-8D55E0FD9430}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2765DDAE-D4F1-4265-A6B5-8D55E0FD9430}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
